@@ -1,6 +1,7 @@
 # twittR: Bag-of-Words Tweet Analysis with R 
 
-This R Shiny app creates a variety of informative figures based off of the bag-of-words distribution of a corpus of Twitter data collected from either a user or a hashtag, including frequency barplots and wordclouds for phrases 1-4 words long, a word correlation table and plot, topic modeling and a topic distribution heatmap, and a random tweet generator. To try the app, visit [this link](https://ermoore.shinyapps.io/twittr/) or enter the command `runGitHub("twittR", "evanm31")` in your RStudio console.
+This R Shiny app creates a variety of informative figures based off of the bag-of-words distribution of a corpus of Twitter data collected from either a user or a hashtag, including frequency barplots and wordclouds for phrases 1-4 words long, a word correlation table and plot, topic modeling and a topic distribution heatmap, and a random tweet generator. To try the app, visit [this link](https://ermoore.shinyapps.io/twittr/).
+ in your RStudio console.
 ![alt text](http://i.imgur.com/aSJurJ4.png "Screenshot 1")
 ![alt text](http://i.imgur.com/JSbkV8b.png "Screenshot 2")
 ![alt text](http://i.imgur.com/VY4CC3m.png "Screenshot 3")
